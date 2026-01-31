@@ -1,0 +1,388 @@
+E:\G89\Net Course\Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\appsettings.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.staticwebassets.endpoints.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.exe
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.deps.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.runtimeconfig.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.pdb
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+E:\G89\Net Course\Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.csproj.Up2Date
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.dll
+E:\G89\Net Course\Backend\obj\Debug\net7.0\refint\Backend.dll
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.pdb
+E:\G89\Net Course\Backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+E:\G89\Net Course\Backend\obj\Debug\net7.0\ref\Backend.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\EntityFramework.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Humanizer.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\G89\Net Course\Backend\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\G89\Net Course\Backend\bin\Debug\net7.0\AutoMapper.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Backend.staticwebassets.runtime.json
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\G89\Net Course\Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\appsettings.Development.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\appsettings.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.staticwebassets.endpoints.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.staticwebassets.runtime.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.exe
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.deps.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.runtimeconfig.json
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Backend.pdb
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\AutoMapper.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Azure.Core.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Azure.Identity.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\EntityFramework.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Humanizer.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.CodeDom.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Memory.Data.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\Backend_ECommerce\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\staticwebassets.build.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\staticwebassets.development.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.csproj.Up2Date
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.dll
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\refint\Backend.dll
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.pdb
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+E:\G89\Backend_ECommerce\obj\Debug\net7.0\ref\Backend.dll
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.dll
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\refint\Backend.dll
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.pdb
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\appsettings.Development.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\appsettings.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.staticwebassets.endpoints.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.staticwebassets.runtime.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.exe
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.deps.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.runtimeconfig.json
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Backend.pdb
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\AutoMapper.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Azure.Core.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\EntityFramework.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Humanizer.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.CodeDom.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.development.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.Up2Date
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+E:\G89\HVAC_Backend Project\obj\Debug\net7.0\ref\Backend.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\appsettings.Development.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\appsettings.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.staticwebassets.endpoints.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.staticwebassets.runtime.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.exe
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.deps.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.runtimeconfig.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Backend.pdb
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\AutoMapper.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Azure.Core.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\EntityFramework.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Humanizer.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.CodeDom.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.development.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.csproj.Up2Date
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\refint\Backend.dll
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.pdb
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+E:\G89\HVAC_Backend full Project\HVAC_Backend Project\obj\Debug\net7.0\ref\Backend.dll
